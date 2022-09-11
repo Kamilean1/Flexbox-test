@@ -1,16 +1,12 @@
-
 body {
     background-color: blueviolet;
     margin: 0;
 }
 
-.First-block {
+.Container-1 {
     display: flex;
     height: 100vh;
     flex-direction: row;
-}
-
-.Flexbox-item-1 {
     height: 160px;
     width: 468px;
     background-color: aliceblue;
@@ -22,7 +18,24 @@ body {
     border-radius: 10px;
 }
 
-.Flexbox-item-2 {
+.Item-1 {
+    background-color: aqua;
+    padding: 20px;
+    height: 78px;
+    width: 78px;
+    display: flex;
+}
+
+.Item-2 {
+    background-color: aqua;
+    padding: 20px;
+    height: 78px;
+    width: 78px;
+    display: flex
+    
+}
+
+.Container-2 {
     height: 160px;
     width: 468px;
     background-color: aliceblue;
@@ -35,7 +48,27 @@ body {
 
 }
 
+.Flexbox-item-2 {
+    background-color: aqua;
+}
+
+.Container-3 {
+    height: 160px;
+    width: 468px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    border-radius: 10px;
+}
+
 .Flexbox-item-3 {
+    background-color: aqua;
+}
+
+.Container-4 {
     height: 160px;
     width: 468px;
     background-color: aliceblue;
@@ -48,6 +81,11 @@ body {
 }
 
 .Flexbox-item-4 {
+    background-color: aqua;
+}
+
+
+.Container-5 {
     height: 160px;
     width: 468px;
     background-color: aliceblue;
@@ -60,6 +98,11 @@ body {
 }
 
 .Flexbox-item-5 {
+    background-color: aqua;
+}
+
+
+.Container-6 {
     height: 160px;
     width: 468px;
     background-color: aliceblue;
@@ -72,13 +115,5 @@ body {
 }
 
 .Flexbox-item-6 {
-    height: 160px;
-    width: 468px;
-    background-color: aliceblue;
-    display: flex;
-    flex-direction: center;
-    justify-content: center;
-    align-items: center;
-    margin: 20px;
-    border-radius: 10px;
+    background-color: aqua;
 }
