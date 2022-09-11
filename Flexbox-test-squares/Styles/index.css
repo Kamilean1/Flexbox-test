@@ -7,6 +7,7 @@ body {
 .First-block {
     display: flex;
     height: 100vh;
+    align-items: center;
 }
 
 .Flexbox-item-1 {
@@ -18,6 +19,7 @@ body {
     justify-content: flex-start;
     align-items: flex-start;
     margin: 20px;
+    border-radius: 10px;
 }
 
 .Flexbox-item-2 {
@@ -29,9 +31,54 @@ body {
     justify-content: center;
     align-items: center;
     margin: 20px;
+    border-radius: 10px;
 
 }
 
 .Flexbox-item-3 {
-    
+    height: 160px;
+    width: 468px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.Flexbox-item-4 {
+    height: 160px;
+    width: 468px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.Flexbox-item-5 {
+    height: 160px;
+    width: 468px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.Flexbox-item-6 {
+    height: 160px;
+    width: 468px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    border-radius: 10px;
 }
