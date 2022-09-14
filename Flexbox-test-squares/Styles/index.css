@@ -61,3 +61,34 @@ body {
     margin-bottom: 20px;
     
 }
+
+.Layout-three {
+    min-height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    background-color: blueviolet;
+}
+
+.box-three {
+    width: 468px;
+    height: 160px;
+    margin-top: 20px;
+    margin-left: 98px;
+    display: inline-flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: aliceblue;
+    border-radius: 8px;
+}
+
+.box-three__box {
+    width: 78px;
+    height: 78px;
+    background-color: aquamarine;
+    border-radius: 4px;
+    margin-left: 20px;
+    margin-top: 41px;
+}
+
+
