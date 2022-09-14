@@ -46,7 +46,7 @@ body {
     margin-top: 90px;
     margin-left: 20px;
     display: inline-flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
     align-items: flex-end;
     background-color: aliceblue;
     border-radius: 8px;
@@ -62,22 +62,22 @@ body {
     
 }
 
-.Layout-three {
+/*.Layout-three {
     min-height: 100vh;
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: end;
     background-color: blueviolet;
 }
 
 .box-three {
     width: 468px;
     height: 160px;
-    margin-top: 20px;
+    margin-top: 270px;
     margin-left: 98px;
     display: inline-flex;
-    justify-content: flex-start;
-    align-items: flex-start;
+    justify-content: flex-end;
+    align-items: flex-end;
     background-color: aliceblue;
     border-radius: 8px;
 }
